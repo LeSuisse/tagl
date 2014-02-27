@@ -3,7 +3,6 @@ package it.sauronsoftware;
 import it.sauronsoftware.cron4j.SchedulingPattern;
 import it.sauronsoftware.cron4j.InvalidPatternException;
 
-import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.assertFalse;
 
